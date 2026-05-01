@@ -1,3 +1,4 @@
+package Normal_Question;
 public class ArmstrongNum {
     public static void main(String[] args) {
         int num = 153;
